@@ -1,2 +1,2 @@
 # beers
-internshala
+the code for internshala internship purpose
